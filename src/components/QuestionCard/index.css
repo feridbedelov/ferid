@@ -1,0 +1,12 @@
+.question-card {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.question-title {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+.question-answers {
+}
